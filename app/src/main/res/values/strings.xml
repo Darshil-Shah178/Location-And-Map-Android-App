@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Location and Map</string>
+    <string name="speed">%.1f</string>
+    <string name="zero">0.0</string>
+    <string name="current_speed">Current Speed</string>
+    <string name="fastest_speed">Fastest Speed</string>
+    <string name="start_locating">Start locating</string>
+    <string name="stop_locating">Stop locating</string>
+</resources>
